@@ -1,0 +1,36 @@
+{
+    "nombreApp" : "Semifinales",
+    "partidos" : [
+    {
+        "equipo1": "Equipo 1",
+        "goles1": "0",
+        "equipo2": "Equipo 2",
+        "goles2": "5"
+    },
+    {
+        "equipo1": "Equipo 3",
+        "goles1": "0",
+        "equipo2": "Equipo 4",
+        "goles2": "0"
+    },
+    {
+        "equipo1": "Equipo 5",
+        "goles1": "0",
+        "equipo2": "Equipo 6",
+        "goles2": "3"
+    },
+    {
+        "equipo1": "Equipo 7",
+        "goles1": "0",
+        "equipo2": "Equipo 8",
+        "goles2": "5"
+    },
+    {
+        "equipo1": "Equipò 9",
+        "goles1": "0",
+        "equipo2": "Equipo 10",
+        "goles2": "9"
+    }
+    
+]
+}
