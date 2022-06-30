@@ -1,35 +1,33 @@
 {
-    "nombreApp" : "Semifinales",
-    "partidos" : [
+    "nombreApp" : "TenisMesa",
+    "partido" : [
     {
-        "equipo1": "Equipo 1",
-        "goles1": "0",
-        "equipo2": "Equipo 2",
-        "goles2": "5"
+        "jugador": "Jugador 1",
+        "resultadofinal": "0",
+        "primerset": "5",
+        "segundoset": "5",
+        "tercerset": "5",
+        "cuartoset": "5",
+        "quintoset": "5",
+        "sextoset": "5",
+        "septimoset": "5",
+        "octavoset": "5",
+        "novenoset": "5",
+        "decimoset": "5"
     },
     {
-        "equipo1": "Equipo 3",
-        "goles1": "0",
-        "equipo2": "Equipo 4",
-        "goles2": "0"
-    },
-    {
-        "equipo1": "Equipo 5",
-        "goles1": "0",
-        "equipo2": "Equipo 6",
-        "goles2": "3"
-    },
-    {
-        "equipo1": "Equipo 7",
-        "goles1": "0",
-        "equipo2": "Equipo 8",
-        "goles2": "5"
-    },
-    {
-        "equipo1": "Equipò 9",
-        "goles1": "0",
-        "equipo2": "Equipo 10",
-        "goles2": "9"
+        "jugador": "Jugador 2",
+        "resultadofinal": "0",
+        "primerset": "3",
+        "segundoset": "3",
+        "tercerset": "3",
+        "cuartoset": "3",
+        "quintoset": "3",
+        "sextoset": "3",
+        "septimoset": "3",
+        "octavoset": "3",
+        "novenoset": "3",
+        "decimoset": "3"
     }
     
 ]
