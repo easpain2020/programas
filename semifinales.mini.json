@@ -2,7 +2,7 @@
     "nombreApp" : "TenisMesa",
     "partido" : [
     {
-        "jugador": "Jugador 1",
+        "jugadoruno": "Jugador 1",
         "resultadofinal": "0",
         "primerset": "5",
         "segundoset": "5",
@@ -16,7 +16,7 @@
         "decimoset": "5"
     },
     {
-        "jugador": "Jugador 2",
+        "jugadordos": "Jugador 2",
         "resultadofinal": "0",
         "primerset": "3",
         "segundoset": "3",
