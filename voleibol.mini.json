@@ -1,0 +1,24 @@
+{
+    "nombreApp" : "Voleibol",
+    "partido" : [
+    {
+        "infantiluno": "Infantil 2",
+        "resultadoinfantiluno": "0",
+        "infantildos": "Infantil 2",
+        "resultadoinfantildos": "0",
+        "alevinuno": "Cadete 1",
+        "resultadoalevinuno": "0",
+        "alevindos": "Cadete 2",
+        "resultadoalevindos": "0",
+        "benajaminuno": "Benajamin 1",
+        "resultadobenajaminuno": "0",
+        "benajamindos": "Benajamin 2",
+        "resultadobenajamindos": "0",
+        "senioruno": "Juvenil - Senior 1",
+        "resultadosenioruno": "0",
+        "seniordos": "Juvenil - Senior 2",
+        "resultadoseniordos": "0"
+    }    
+    ]
+}
+

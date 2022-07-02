@@ -1,0 +1,23 @@
+{
+    "nombreApp" : "Tenis",
+    "partido" : [
+    {
+        "infantiluno": "Infantil 1",
+        "resultadoinfantiluno": "0",
+        "infantildos": "Infantil 2",
+        "resultadoinfantildos": "0",
+        "alevinuno": "Alevin 1",
+        "resultadoalevinuno": "0",
+        "alevindos": "Alevin 2",
+        "resultadoalevindos": "0",
+        "benajaminuno": "Benajamin 1",
+        "resultadobenajaminuno": "0",
+        "benajamindos": "Benajamin 2",
+        "resultadobenajamindos": "0",
+        "senioruno": "Senior 1",
+        "resultadosenioruno": "0",
+        "seniordos": "Senior 2",
+        "resultadoseniordos": "0"
+    }    
+    ]
+}
