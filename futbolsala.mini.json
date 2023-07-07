@@ -2,10 +2,10 @@
     "nombreApp" : "FutbolSala",
     "partido" : [
     {
-        "infantiluno": "Jorge Requena\n GANADOR POR PENALTIS",
-        "resultadoinfantiluno": "4",
-        "infantildos": "Antonio Luis Cortes ",
-        "resultadoinfantildos": "4",
+        "infantiluno": "Infantil 1",
+        "resultadoinfantiluno": "0",
+        "infantildos": "Infantil 2",
+        "resultadoinfantildos": "0",
         "alevinuno": "Alevin 1",
         "resultadoalevinuno": "0",
         "alevindos": "Alevin 2",
@@ -14,10 +14,10 @@
         "resultadobenajaminuno": "0",
         "benajamindos": "Benajamin 2",
         "resultadobenajamindos": "0",
-        "senioruno": "Los Jugones\n GANADOR POR PENALTIS",
-        "resultadosenioruno": "6",
-        "seniordos": "Los Lamento FC",
-        "resultadoseniordos": "6"
+        "senioruno": "Senior 1",
+        "resultadosenioruno": "0",
+        "seniordos": "Senior 2",
+        "resultadoseniordos": "0"
     }    
     ]
 }
