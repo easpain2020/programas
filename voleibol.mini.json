@@ -2,22 +2,22 @@
     "nombreApp" : "Voleibol",
     "partido" : [
     {
-        "infantiluno": "Angela Cortes y Angela Martínez",
-        "resultadoinfantiluno": "2",
-        "infantildos": "María Payán y Luz María",
-        "resultadoinfantildos": "1",
-        "alevinuno": "Alevin Femenino\n Miriam y Edith",
-        "resultadoalevinuno": "2",
-        "alevindos": "Alevin Femenino\n Sofia y Eva",
-        "resultadoalevindos": "1",
-        "benajaminuno": "Juvenil Femenino\n Angela Cortes y Angela Martínez",
-        "resultadobenajaminuno": "2",
-        "benajamindos": "Juvenil Femenino\n María Payán y Luz María",
+        "infantiluno": "Infantil 1",
+        "resultadoinfantiluno": "0",
+        "infantildos": "Infantil 2",
+        "resultadoinfantildos": "0",
+        "alevinuno": "Alevin 1",
+        "resultadoalevinuno": "0",
+        "alevindos": "Alevin 2",
+        "resultadoalevindos": "0",
+        "benajaminuno": "Benjamin 1",
+        "resultadobenajaminuno": "0",
+        "benajamindos": "Benjamin 2",
         "resultadobenajamindos": "0",
-        "senioruno": "Senior Femenino\n Adriana y Eva Moya",
-        "resultadosenioruno": "2",
-        "seniordos": "Senior Femenino\n Evelin y Desi",
-        "resultadoseniordos": "1"
+        "senioruno": "Senior 1",
+        "resultadosenioruno": "0",
+        "seniordos": "Senior 2",
+        "resultadoseniordos": "0"
     }    
     ]
 }
